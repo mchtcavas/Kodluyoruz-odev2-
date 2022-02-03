@@ -1,0 +1,22 @@
+.colorHeader{
+  color: red
+}
+
+.colorText{
+    color: blue
+}
+
+.colorSubText{
+    color: orange
+}
+
+.componentMargin{
+    
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.textLeft{
+    text-align: left;
+}
